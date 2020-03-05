@@ -1,0 +1,17 @@
+resp,mod,modlvl,est
+den,cc_type2,modgrass,-0.4678792016347178
+den,cc_type2,modnon-grass,-0.014489188814051231
+den,weed_group,modperennial,-0.018449218508213683
+den,weed_group,modsummer annual,-0.12416529471533448
+den,weed_group,modwinter annual,-0.586621077326352
+den,ccterm_meth,modD,-0.3268199065196074
+den,ccterm_meth,modH,-0.22161444419762544
+den,ccterm_meth,modM,-0.10836957138783901
+den,ccterm_meth,modnone,0.28728596377651944
+den,ccterm_meth,modW,-0.36598808882175216
+den,crop_follow,modcorn,-0.12804751524852936
+den,crop_follow,modsoybean,-0.22975333318229083
+den,msmt_season,modspring,-0.4731386574822153
+den,msmt_season,modsummer,-0.0758659159841712
+den,msmt_planting,modafter,-0.07586591598417122
+den,msmt_planting,modbefore,-0.47313865748221545

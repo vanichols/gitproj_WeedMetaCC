@@ -1,0 +1,33 @@
+exp_type is not consistent
+
+. are not consistent, there are some blanks
+
+cc_tillage - all are N, but 4 are .
+what does this mean? That none were killed via tillage? 
+
+it isn't clear if . is an explicit NA or not
+in general I would recommend having something that indicates it is an intentional
+NA (we used 'IC' for it's complicated) to distinguish missing info from
+assigned NA values. 
+
+crop_follow what does corn/soy mean?
+
+What variables are of interest? 
+term method (2: herb, mech, dual, winterkill). Could collapse? 
+Species (grass vs non-grass vs mix?)
+Time of weed msmt (summer, spring, fall)
+biomass (continuous)
+crop follow (corn vs soybean)
+
+maybe add aridity (continuous) 
+
+weather variables? we don't have weather data.
+we only have 15 studies, so we COULD get weather. 
+
+climate - we have aridity. let's include it. 
+
+-type of weed msmt (single species? or a community?) most are community? can we add this?
+
+What are the response variables?
+density and biomass
+yield?
